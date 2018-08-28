@@ -1,0 +1,528 @@
+ID,First Name,Second Name,Team,Gameweek Pts,Gameweek price change,Gameweek net transfer,Fixture1,Fixture2,Fixture3,Fixture4,Fixture5,Total Difficulty,Average Difficulty
+1,Petr,Cech,Arsenal,3,0,5815,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+2,Bernd,Leno,Arsenal,0,-1,-15247,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+3,Laurent,Koscielny,Arsenal,0,0,-755,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+4,Héctor,Bellerín,Arsenal,1,0,-62996,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+5,Nacho,Monreal,Arsenal,1,0,4570,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+6,Rob,Holding,Arsenal,0,0,-3414,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+7,Shkodran,Mustafi,Arsenal,0,0,-7594,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+8,Sead,Kolasinac,Arsenal,0,-1,-4137,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+10,Konstantinos,Mavropanos,Arsenal,0,-1,-1318,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+11,Stephan,Lichtsteiner,Arsenal,0,-1,-20051,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+12,Sokratis,Papastathopoulos,Arsenal,1,-1,-13679,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+13,Mesut,Özil,Arsenal,2,-1,-34232,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+14,Aaron,Ramsey,Arsenal,1,0,-8138,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+15,Alex,Iwobi,Arsenal,7,0,22570,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+16,Mohamed,Elneny,Arsenal,0,-1,-13729,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+17,Granit,Xhaka,Arsenal,0,-1,-35634,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+18,Henrikh,Mkhitaryan,Arsenal,12,1,294036,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+19,Reiss,Nelson,Arsenal,0,0,-3742,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+20,Ainsley,Maitland-Niles,Arsenal,0,0,-5160,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+21,Danny,Welbeck,Arsenal,0,0,-1739,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+22,Alexandre,Lacazette,Arsenal,1,-1,-39499,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+23,Pierre-Emerick,Aubameyang,Arsenal,2,0,-81450,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+450,Lucas,Torreira,Arsenal,1,0,-10860,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+451,Matteo,Guendouzi,Arsenal,2,0,50516,"WHU,2","CAR,2","NEW,3","EVE,2","WAT,2",11,2.2
+24,Asmir,Begovic,Bournemouth,3,0,992,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+25,Artur,Boruc,Bournemouth,0,0,-10824,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+26,Simon,Francis,Bournemouth,1,0,-2028,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+27,Steve,Cook,Bournemouth,14,1,242300,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+28,Charlie,Daniels,Bournemouth,2,0,-65908,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+29,Adam,Smith,Bournemouth,2,0,1457,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+30,Tyrone,Mings,Bournemouth,0,0,-888,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+31,Nathan,Aké,Bournemouth,2,0,-8077,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+32,Jack,Simpson,Bournemouth,0,0,-14751,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+34,Marc,Pugh,Bournemouth,0,0,-2791,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+35,Andrew,Surman,Bournemouth,2,0,-1673,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+36,Junior,Stanislas,Bournemouth,0,0,-279,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+37,Dan,Gosling,Bournemouth,1,0,-422,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+38,Jordon,Ibe,Bournemouth,0,0,-4054,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+39,Lewis,Cook,Bournemouth,1,-1,-1064,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+40,Ryan,Fraser,Bournemouth,6,0,91700,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+41,Emerson,Hyndman,Bournemouth,0,0,-402,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+42,David,Brooks,Bournemouth,2,0,1870,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+43,Callum,Wilson,Bournemouth,6,1,188883,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+44,Lys,Mousset,Bournemouth,0,0,-1357,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+45,Joshua,King,Bournemouth,1,-1,-91214,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+46,Jermain,Defoe,Bournemouth,0,-1,-6617,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+473,Diego,Rico,Bournemouth,0,0,-162,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+494,Jefferson,Lerma,Bournemouth,0,0,-1353,"EVE,2","CHE,4","LEI,3","BUR,3","CRY,2",14,2.8
+47,Mathew,Ryan,Brighton,1,0,-15882,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+48,Lewis,Dunk,Brighton,1,0,-23716,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+49,Shane,Duffy,Brighton,7,0,2812,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+50,Bruno,Saltor Grau,Brighton,0,0,-1998,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+51,Gaëtan,Bong,Brighton,1,0,-176,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+52,Markus,Suttner,Brighton,0,0,-29328,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+53,Ezequiel,Schelotto,Brighton,0,0,-8431,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+54,Leon,Balogun,Brighton,1,0,-406,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+55,Anthony,Knockaert,Brighton,5,0,523,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+56,Dale,Stephens,Brighton,2,0,-38997,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+57,Beram,Kayal,Brighton,1,0,-248,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+58,Solomon,March,Brighton,5,0,1422,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+59,Pascal,Groß,Brighton,10,0,-16010,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+60,Davy,Pröpper,Brighton,2,0,-549,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+61,José Heriberto,Izquierdo Mena,Brighton,0,-1,-1438,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+62,Glenn,Murray,Brighton,5,0,2231,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+63,Tomer,Hemed,Brighton,0,-1,-1452,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+64,Sam,Baldock,Brighton,0,0,-2294,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+65,Jürgen,Locadia,Brighton,1,0,-473,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+66,Florin,Andone,Brighton,0,0,-480,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+179,David,Button,Brighton,0,0,-2475,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+439,Jason,Steele,Brighton,0,0,-1006,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+440,Bernardo,Fernandes da Silva Junior,Brighton,0,0,-1347,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+466,Yves,Bissouma,Brighton,0,0,-255,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+476,Alireza,Jahanbakhsh,Brighton,0,-1,-8893,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+503,Martín,Montoya,Brighton,1,0,-158,"LIV,5","FUL,2","SOU,2","TOT,4","MCI,5",18,3.6
+67,Tom,Heaton,Burnley,0,0,-417,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+68,Nick,Pope,Burnley,0,0,-2533,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+69,Matthew,Lowton,Burnley,1,0,-4973,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+70,Ben,Mee,Burnley,1,0,-21094,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+71,Stephen,Ward,Burnley,0,0,-13898,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+72,James,Tarkowski,Burnley,7,0,17228,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+73,Kevin,Long,Burnley,0,-1,-4954,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+74,Charlie,Taylor,Burnley,1,0,-829,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+75,Phil,Bardsley,Burnley,0,0,-1005,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+76,Johann Berg,Gudmundsson,Burnley,5,0,-5119,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+77,Steven,Defour,Burnley,0,0,-129,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+78,Jeff,Hendrick,Burnley,2,0,-667,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+79,Robbie,Brady,Burnley,0,0,-283,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+80,Ashley,Westwood,Burnley,2,0,16284,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+81,Jonathan,Walters,Burnley,0,-1,-380,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+82,Jack,Cork,Burnley,2,0,-5388,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+83,Aaron,Lennon,Burnley,2,0,-783,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+84,Sam,Vokes,Burnley,1,0,-6437,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+85,Ashley,Barnes,Burnley,1,-1,-7914,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+86,Nahki,Wells,Burnley,0,0,-7715,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+87,Chris,Wood,Burnley,2,0,-3158,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+485,Anders,Lindegaard,Burnley,0,0,-481,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+490,Joe,Hart,Burnley,2,0,9688,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+491,Ben,Gibson,Burnley,0,0,-2546,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+495,Matej,Vydra,Burnley,0,0,-1219,"FUL,2","MUN,4","WOL,2","BOU,3","CAR,2",13,2.6
+33,Harry,Arter,Cardiff,2,0,-738,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+88,Neil,Etheridge,Cardiff,16,0,113334,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+89,Alex,Smithies,Cardiff,0,0,-706,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+90,Sean,Morrison,Cardiff,6,0,-1210,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+91,Sol,Bamba,Cardiff,6,0,-49,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+92,Bruno,Ecuele Manga,Cardiff,6,0,250,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+93,Matthew,Connolly,Cardiff,0,0,-6344,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+94,Joe,Bennett,Cardiff,8,0,9556,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+95,Lee,Peltier,Cardiff,0,0,-21195,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+96,Ashley Darel Jazz,Richards,Cardiff,0,0,-3090,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+97,Greg,Halford,Cardiff,0,0,-92,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+98,Joe,Ralls,Cardiff,3,0,-2083,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+99,David Junior,Hoilett,Cardiff,3,-1,-4725,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+100,Nathaniel,Mendez-Laing,Cardiff,1,0,-478,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+101,Callum,Paterson,Cardiff,1,-1,-1258,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+102,Aron,Gunnarsson,Cardiff,0,0,-8196,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+103,Anthony,Pilkington,Cardiff,0,0,-1277,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+104,Loïc,Damour,Cardiff,0,0,-278,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+105,Danny,Ward,Cardiff,0,0,-1723,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+106,Josh,Murphy,Cardiff,3,0,-656,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+107,Kenneth,Zohore,Cardiff,2,-1,-94,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+108,Omar,Bogle,Cardiff,0,0,-1686,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+109,Gary,Madine,Cardiff,0,0,-4949,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+110,Bobby,Reid,Cardiff,1,0,-6508,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+467,Greg,Cunninghamm,Cardiff,0,-1,-555,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+504,Víctor,Camarasa,Cardiff,2,0,536,"HUD,2","ARS,4","CHE,4","MCI,5","BUR,3",18,3.6
+111,Thibaut,Courtois,Chelsea,0,0,-7698,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+112,Willy,Caballero,Chelsea,0,-1,-812,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+113,César,Azpilicueta,Chelsea,4,0,-51145,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+114,Gary,Cahill,Chelsea,0,-1,-10034,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+115,Marcos,Alonso,Chelsea,13,1,373068,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+116,David,Luiz Moreira Marinho,Chelsea,1,0,-11643,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+117,Victor,Moses,Chelsea,0,-1,-36491,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+118,Antonio,Rüdiger,Chelsea,1,0,-10818,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+119,Andreas,Christensen,Chelsea,0,-1,-10433,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+120,Davide,Zappacosta,Chelsea,0,0,-2295,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+121,Emerson,Palmieri dos Santos,Chelsea,0,-1,-1168,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+122,Eden,Hazard,Chelsea,4,0,34962,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+123,Cesc,Fàbregas,Chelsea,0,0,-9914,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+124,Willian,Borges Da Silva,Chelsea,2,0,-51449,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+125,Pedro,Rodríguez Ledesma,Chelsea,8,1,207531,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+126,N'Golo,Kanté,Chelsea,2,0,25747,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+127,Ross,Barkley,Chelsea,1,0,-1621,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+128,Daniel,Drinkwater,Chelsea,0,-1,-1007,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+129,Tiemoué,Bakayoko,Chelsea,0,0,-2866,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+130,Ethan,Ampadu,Chelsea,0,0,-260,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+131,Callum,Hudson-Odoi,Chelsea,0,-1,-10318,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+132,Ruben,Loftus-Cheek,Chelsea,0,-1,-8004,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+133,Olivier,Giroud,Chelsea,1,-1,-22835,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+134,Álvaro,Morata,Chelsea,6,0,70227,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+459,Jorge Luiz,Frello Filho,Chelsea,2,0,44079,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+496,Tammy,Abraham,Chelsea,0,0,-1227,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+498,Kepa,Arrizabalaga,Chelsea,2,0,2567,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+499,Mateo,Kovacic,Chelsea,1,0,-5657,"NEW,3","BOU,3","CAR,2","WHU,3","LIV,4",15,3.0
+135,Wayne,Hennessey,Crystal Palace,2,0,23699,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+136,Julian,Speroni,Crystal Palace,0,0,-32787,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+137,Vicente,Guaita,Crystal Palace,0,-1,-1239,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+138,James,Tomkins,Crystal Palace,1,0,-26045,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+139,Scott,Dann,Crystal Palace,0,0,-67,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+140,Martin,Kelly,Crystal Palace,0,0,-24358,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+141,Jeffrey,Schlupp,Crystal Palace,2,0,57873,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+142,Patrick,van Aanholt,Crystal Palace,0,0,-3947,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+143,Mamadou,Sakho,Crystal Palace,1,0,-1202,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+144,Jairo,Riedewald,Crystal Palace,0,0,-355,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+145,Aaron,Wan-Bissaka,Crystal Palace,-2,0,5198,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+146,Jason,Puncheon,Crystal Palace,0,0,-3047,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+147,James,McArthur,Crystal Palace,2,0,-6941,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+148,Bakary,Sako,Crystal Palace,0,0,-276,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+149,Andros,Townsend,Crystal Palace,2,0,-8789,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+150,Luka,Milivojevic,Crystal Palace,2,-1,-53954,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+151,Wilfried,Zaha,Crystal Palace,2,0,10452,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+152,Christian,Benteke,Crystal Palace,2,0,-3791,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+153,Alexander,Sørloth,Crystal Palace,1,0,-778,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+412,Cheikhou,Kouyaté,Crystal Palace,0,-1,-2487,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+441,Joel,Ward,Crystal Palace,1,0,-1328,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+442,Jaroslaw,Jach,Crystal Palace,0,0,-304,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+443,Pape,Souaré,Crystal Palace,0,0,-516,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+444,Connor,Wickham,Crystal Palace,0,0,-1037,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+477,Sullay,Kaikai,Crystal Palace,0,0,-613,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+486,Max,Meyer,Crystal Palace,1,-1,-4707,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+505,Jordan,Ayew,Crystal Palace,0,0,-3467,"WAT,3","SOU,2","HUD,2","NEW,3","BOU,3",13,2.6
+154,Jordan,Pickford,Everton,3,0,-44585,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+155,Maarten,Stekelenburg,Everton,0,0,-6922,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+156,Leighton,Baines,Everton,2,0,-7243,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+157,Seamus,Coleman,Everton,2,0,-18284,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+158,Phil,Jagielka,Everton,0,-1,-10302,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+159,Ashley,Williams,Everton,0,0,-935,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+160,Mason,Holgate,Everton,2,0,1182,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+161,Jonjoe,Kenny,Everton,0,-1,-1241,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+162,Michael,Keane,Everton,2,0,-7374,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+163,Cuco,Martina,Everton,0,0,-2493,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+164,Theo,Walcott,Everton,13,0,61424,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+165,Yannick,Bolasie,Everton,0,-1,-2662,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+166,James,McCarthy,Everton,0,0,-125,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+167,Morgan,Schneiderlin,Everton,4,0,-4301,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+168,Idrissa,Gueye,Everton,2,0,-2160,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+169,Tom,Davies,Everton,2,-1,-923,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+170,Ademola,Lookman,Everton,0,0,-1819,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+171,Davy,Klaassen,Everton,0,0,-85,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+172,Gylfi,Sigurdsson,Everton,2,-1,-17893,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+173,Nikola,Vlasic,Everton,0,0,-376,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+174,Beni,Baningime,Everton,0,0,-188,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+175,Dominic,Calvert-Lewin,Everton,1,-1,-8187,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+176,Oumar,Niasse,Everton,1,-1,-6341,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+177,Cenk,Tosun,Everton,2,0,-44414,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+393,Richarlison,de Andrade,Everton,9,2,586123,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+469,Kevin,Mirallas,Everton,0,0,-198,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+470,Sandro,Ramírez,Everton,0,-1,-1407,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+484,Lucas,Digne,Everton,0,-1,-30694,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+506,Yerry,Mina,Everton,0,0,-20597,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+507,Bernard,Anício Caldeira Duarte,Everton,0,0,-3939,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+508,André Filipe,Tavares Gomes,Everton,0,0,-5113,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+526,Kurt,Zouma,Everton,0,0,471,"BOU,3","HUD,2","WHU,2","ARS,4","FUL,2",13,2.6
+9,Calum,Chambers,Fulham,1,0,-6750,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+178,Marcus,Bettinelli,Fulham,0,0,-1262,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+180,Tim,Ream,Fulham,0,-1,-3041,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+181,Denis,Odoi,Fulham,0,0,-855,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+182,Tom,Cairney,Fulham,2,-1,-14128,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+183,Kevin,McDonald,Fulham,0,0,-2169,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+184,Ryan,Sessegnon,Fulham,5,-1,-28495,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+185,Stefan,Johansen,Fulham,1,-1,-948,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+186,Floyd,Ayité,Fulham,0,-1,-864,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+187,Neeskens,Kebano,Fulham,0,0,-511,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+188,Rui Pedro,da Rocha Fonte,Fulham,0,0,-1986,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+189,Aboubakar,Kamara,Fulham,2,0,41535,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+455,Maxime,Le Marchand,Fulham,2,0,-383,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+456,Jean Michael,Seri,Fulham,2,-1,-10788,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+460,Cyrus,Christie,Fulham,1,0,-1265,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+474,Fabricio,Agosto Ramírez,Fulham,5,0,2653,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+478,André,Schürrle,Fulham,1,-1,-64327,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+480,Aleksandar,Mitrovic,Fulham,6,0,23344,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+487,Alfie,Mawson,Fulham,0,0,-1755,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+509,Sergio,Rico,Fulham,0,0,-1348,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+510,Joe,Bryan,Fulham,1,0,-164,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+511,Timothy,Fosu-Mensah,Fulham,1,0,-1722,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+512,André-Frank,Zambo Anguissa,Fulham,2,0,275,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+513,Luciano,Vietto,Fulham,0,0,-4470,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+521,Ibrahima,Cissé,Fulham,0,0,100,"BUR,3","BHA,3","MCI,5","WAT,2","EVE,3",16,3.2
+190,Ben,Hamer,Huddersfield,2,0,84224,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+191,Jonas,Lössl,Huddersfield,0,0,-9135,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+192,Christopher,Schindler,Huddersfield,-2,0,-14232,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+193,Chris,Löwe,Huddersfield,-1,0,-322,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+194,Tommy,Smith,Huddersfield,-1,0,-345,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+195,Mathias,Jorgensen,Huddersfield,0,0,-93626,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+196,Scott,Malone,Huddersfield,0,0,-26004,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+197,Florent,Hadergjonaj,Huddersfield,-1,0,-92,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+198,Terence,Kongolo,Huddersfield,-3,0,-1093,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+199,Aaron,Mooy,Huddersfield,0,-1,-20801,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+200,Rajiv,van La Parra,Huddersfield,0,-1,-395,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+201,Jonathan,Hogg,Huddersfield,0,0,-2331,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+202,Philip,Billing,Huddersfield,1,0,898,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+203,Tom,Ince,Huddersfield,0,0,-108,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+204,Danny,Williams,Huddersfield,0,0,-37,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+205,Abdelhamid,Sabiri,Huddersfield,1,0,-126,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+206,Alex,Pritchard,Huddersfield,2,0,-2,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+207,Ramadan,Sobhi,Huddersfield,1,0,-1975,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+208,Juninho,Bacuna,Huddersfield,0,0,-577,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+209,Collin,Quaner,Huddersfield,0,0,-24696,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+210,Laurent,Depoitre,Huddersfield,1,-1,-7420,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+211,Steve,Mounie,Huddersfield,5,0,3098,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+212,Elias,Kachunga,Huddersfield,0,0,-502,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+461,Erik,Durm,Huddersfield,0,0,-1980,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+471,Adama,Diakhaby,Huddersfield,1,-1,-230,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+514,Isaac,Mbenza,Huddersfield,0,0,-50,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+522,Jon Gorenc,Stankovic,Huddersfield,5,0,104362,"CAR,2","EVE,3","CRY,2","LEI,3","TOT,4",14,2.8
+213,Kasper,Schmeichel,Leicester,6,0,6831,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+214,Eldin,Jakupovic,Leicester,0,0,-350,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+215,Wes,Morgan,Leicester,0,0,-10644,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+216,Christian,Fuchs,Leicester,0,-1,-5026,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+217,Danny,Simpson,Leicester,0,-1,-2076,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+218,Yohan,Benalouane,Leicester,0,0,-2686,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+219,Benjamin,Chilwell,Leicester,8,0,5065,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+220,Harry,Maguire,Leicester,5,0,-24774,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+221,Ricardo Domingos,Barbosa Pereira,Leicester,12,0,132925,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+222,Jonny,Evans,Leicester,5,0,378,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+224,Marc,Albrighton,Leicester,1,0,-5856,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+225,Demarai,Gray,Leicester,3,0,-3462,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+226,Daniel,Amartey,Leicester,1,0,-652,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+227,Wilfred,Ndidi,Leicester,3,0,-1307,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+228,Vicente,Iborra,Leicester,0,-1,-473,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+229,Matty,James,Leicester,0,0,-160,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+230,Hamza,Choudhury,Leicester,0,0,-415,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+231,Adrien Sebastian,Perruchet Silva,Leicester,1,0,-1148,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+232,Fousseni,Diabaté,Leicester,0,0,-341,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+233,James,Maddison,Leicester,9,0,43208,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+234,Jamie,Vardy,Leicester,-1,0,-197031,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+235,Shinji,Okazaki,Leicester,0,-1,-17312,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+236,Kelechi,Iheanacho,Leicester,1,0,-5052,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+457,Danny,Ward,Leicester,0,0,-591,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+492,Rachid,Ghezzal,Leicester,0,0,-2464,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+501,Filip,Benkovic,Leicester,0,0,-372,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+515,Caglar,Söyüncü,Leicester,0,0,-761,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+527,Nampalys,Mendy,Leicester,3,0,18802,"SOU,2","LIV,4","BOU,3","HUD,2","NEW,3",14,2.8
+237,Simon,Mignolet,Liverpool,0,0,-604,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+238,Loris,Karius,Liverpool,0,-1,-1037,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+239,Dejan,Lovren,Liverpool,0,0,-49155,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+240,Alberto,Moreno,Liverpool,0,-1,-2510,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+241,Nathaniel,Clyne,Liverpool,0,0,-3909,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+242,Joseph,Gomez,Liverpool,6,0,15990,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+243,Joel,Matip,Liverpool,0,-1,-352,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+244,Ragnar,Klavan,Liverpool,0,0,-1025,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+245,Trent,Alexander-Arnold,Liverpool,5,0,13048,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+246,Virgil,van Dijk,Liverpool,6,0,-15794,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+247,Andrew,Robertson,Liverpool,7,0,76606,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+248,Alex,Oxlade-Chamberlain,Liverpool,0,0,-212,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+249,Jordan,Henderson,Liverpool,1,-1,-6528,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+250,Adam,Lallana,Liverpool,1,-1,-5862,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+251,Sadio,Mané,Liverpool,10,1,319210,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+252,Georginio,Wijnaldum,Liverpool,3,0,-2176,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+253,Mohamed,Salah,Liverpool,9,0,1702,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+254,James,Milner,Liverpool,11,0,61615,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+255,Fabio Henrique,Tavares,Liverpool,0,0,-7115,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+256,Naby,Keita,Liverpool,3,0,-16269,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+257,Roberto,Firmino,Liverpool,2,0,-161023,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+259,Dominic,Solanke,Liverpool,0,-1,-1827,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+462,Xherdan,Shaqiri,Liverpool,0,-1,-71335,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+468,Alisson,Ramses Becker,Liverpool,6,0,46660,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+472,Daniel,Sturridge,Liverpool,1,0,-7244,"BHA,2","LEI,3","TOT,4","SOU,2","CHE,4",15,3.0
+223,Riyad,Mahrez,Man City,1,-1,-70704,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+260,Ederson,Santana de Moraes,Man City,5,1,114177,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+261,Claudio,Bravo,Man City,0,0,-2200,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+262,John,Stones,Man City,2,0,-8426,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+263,Vincent,Kompany,Man City,2,0,-6002,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+264,Nicolás,Otamendi,Man City,0,-1,-95946,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+265,Kyle,Walker,Man City,0,0,-83572,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+266,Danilo Luiz,da Silva,Man City,0,-1,-8988,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+267,Benjamin,Mendy,Man City,8,1,466441,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+268,Aymeric,Laporte,Man City,2,0,-794,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+269,Fabian,Delph,Man City,0,-1,-2479,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+270,Raheem,Sterling,Man City,0,0,-26121,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+271,David,Silva,Man City,9,0,87302,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+272,Fernando,Luiz Rosa,Man City,2,0,-31045,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+273,Kevin,De Bruyne,Man City,0,-1,-283430,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+274,Ilkay,Gündogan,Man City,2,0,-1102,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+275,Leroy,Sané,Man City,4,-1,-142813,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+276,Bernardo Mota,Veiga de Carvalho e Silva,Man City,2,0,-17233,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+277,Phil,Foden,Man City,1,-1,-1549,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+278,Brahim,Diaz,Man City,0,-1,-313,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+279,Oleksandr,Zinchenko,Man City,0,-1,-261,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+280,Sergio,Agüero,Man City,20,2,513874,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+281,Gabriel Fernando,de Jesus,Man City,7,0,574,"WOL,2","NEW,3","FUL,2","CAR,2","BHA,2",11,2.2
+282,David,De Gea,Man Utd,1,0,-139164,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+283,Sergio,Romero,Man Utd,0,0,-310,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+284,Chris,Smalling,Man Utd,0,-1,-24208,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+285,Phil,Jones,Man Utd,0,-1,-29898,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+286,Luke,Shaw,Man Utd,4,0,-10284,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+287,Marcos,Rojo,Man Utd,0,0,-633,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+288,Antonio,Valencia,Man Utd,0,0,-5405,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+289,Matteo,Darmian,Man Utd,0,-1,-6459,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+290,Daley,Blind,Man Utd,0,0,-83,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+291,Eric,Bailly,Man Utd,1,0,-32085,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+292,Victor,Lindelöf,Man Utd,1,0,-8293,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+293,Ashley,Young,Man Utd,1,-1,-8947,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+294,José Diogo,Dalot Teixeira,Man Utd,0,0,-229,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+295,Alexis,Sánchez,Man Utd,0,-1,-189892,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+296,Nemanja,Matic,Man Utd,0,0,-4706,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+297,Juan,Mata,Man Utd,1,0,-24309,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+298,Marouane,Fellaini,Man Utd,4,0,-191,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+299,Ander,Herrera,Man Utd,0,0,-402,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+300,Jesse,Lingard,Man Utd,1,0,-27538,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+301,Anthony,Martial,Man Utd,0,-1,-6719,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+302,Paul,Pogba,Man Utd,8,0,68078,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+303,Scott,McTominay,Man Utd,0,0,-3505,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+304,Frederico,Rodrigues de Paula Santos,Man Utd,2,-1,-43287,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+305,Marcus,Rashford,Man Utd,1,-1,-84094,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+306,Romelu,Lukaku,Man Utd,8,0,-28582,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+481,Andreas,Pereira,Man Utd,1,0,-4553,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+520,Lee,Grant,Man Utd,0,0,-16,"TOT,4","BUR,3","WAT,3","WOL,2","WHU,3",15,3.0
+307,Robert,Elliot,Newcastle,0,0,-1237,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+308,Karl,Darlow,Newcastle,0,0,-279,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+309,Martin,Dubravka,Newcastle,6,0,2,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+310,DeAndre,Yedlin,Newcastle,0,0,-12408,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+311,Ciaran,Clark,Newcastle,6,0,1007,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+312,Jamaal,Lascelles,Newcastle,8,0,-15268,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+313,Paul,Dummett,Newcastle,6,0,901,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+314,Florian,Lejeune,Newcastle,0,0,-168,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+315,Javier,Manquillo,Newcastle,0,0,-1510,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+316,Chancel,Mbemba,Newcastle,0,0,-1211,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+317,Matt,Ritchie,Newcastle,2,0,-7215,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+318,Jonjo,Shelvey,Newcastle,3,0,-2651,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+319,Mohamed,Diamé,Newcastle,3,0,-106,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+320,Christian,Atsu,Newcastle,0,-1,-1548,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+321,Jacob,Murphy,Newcastle,1,-1,-203,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+322,Mikel,Merino,Newcastle,0,0,-5,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+323,Isaac,Hayden,Newcastle,-2,0,-2176,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+324,Sung-yueng,Ki,Newcastle,0,-1,-1688,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+325,Dwight,Gayle,Newcastle,0,0,-1457,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+326,Ayoze,Pérez,Newcastle,2,0,-21946,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+327,Jose Luis,Mato Sanmartín,Newcastle,2,0,11681,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+458,Robert Kenedy,Nunes do Nascimento,Newcastle,1,0,-29670,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+482,Fabian,Schär,Newcastle,0,-1,-2994,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+488,Yoshinori,Muto,Newcastle,1,0,-1087,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+493,Salomón,Rondón,Newcastle,0,0,-15505,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+516,Federico,Fernández,Newcastle,0,0,-1331,"CHE,4","MCI,5","ARS,4","CRY,3","LEI,3",19,3.8
+258,Danny,Ings,Southampton,7,0,113866,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+328,Alex,McCarthy,Southampton,2,0,15278,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+329,Fraser,Forster,Southampton,0,0,-5947,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+330,Ryan,Bertrand,Southampton,1,0,-32321,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+331,Maya,Yoshida,Southampton,0,-1,-10637,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+332,Cédric,Soares,Southampton,0,0,-43526,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+333,Jack,Stephens,Southampton,0,0,-468,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+334,Sam,McQueen,Southampton,0,0,-3454,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+335,Jan,Bednarek,Southampton,0,0,-28080,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+336,Wesley,Hoedt,Southampton,0,0,-1809,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+337,Steven,Davis,Southampton,0,-1,-929,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+338,James,Ward-Prowse,Southampton,2,-1,-2141,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+339,Oriol,Romeu Vidal,Southampton,1,0,-8935,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+340,Pierre-Emile,Højbjerg,Southampton,0,0,-2040,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+341,Sofiane,Boufal,Southampton,0,0,-48,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+342,Joshua,Sims,Southampton,0,0,-720,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+343,Nathan,Redmond,Southampton,2,0,-2247,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+344,Mario,Lemina,Southampton,4,0,3284,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+345,Stuart,Armstrong,Southampton,1,-1,-1297,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+346,Mohamed,Elyounoussi,Southampton,0,-1,-5155,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+347,Shane,Long,Southampton,1,0,-7851,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+348,Charlie,Austin,Southampton,1,-1,-15007,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+349,Manolo,Gabbiadini,Southampton,1,-1,-2602,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+350,Guido,Carrillo,Southampton,0,0,-22,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+452,Angus,Gunn,Southampton,0,0,-920,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+463,Jannik,Vestergaard,Southampton,0,0,-6220,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+479,Matt,Targett,Southampton,0,-1,-675,"LEI,3","CRY,3","BHA,2","LIV,5","WOL,2",15,3.0
+351,Hugo,Lloris,Spurs,2,0,-27086,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+352,Michel,Vorm,Spurs,0,-1,-397,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+353,Toby,Alderweireld,Spurs,2,-1,-10893,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+354,Danny,Rose,Spurs,0,-1,-8582,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+355,Jan,Vertonghen,Spurs,2,0,-36130,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+356,Ben,Davies,Spurs,2,-1,-75446,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+357,Kieran,Trippier,Spurs,11,0,80877,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+358,Kyle,Walker-Peters,Spurs,0,-1,-2640,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+359,Davinson,Sánchez,Spurs,2,0,-11695,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+360,Serge,Aurier,Spurs,0,0,-9778,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+361,Eric,Dier,Spurs,2,0,-2374,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+362,Mousa,Dembélé,Spurs,1,0,-7462,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+363,Erik,Lamela,Spurs,4,0,502,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+364,Christian,Eriksen,Spurs,2,-1,-181683,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+365,Bamidele,Alli,Spurs,5,0,5984,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+366,Victor,Wanyama,Spurs,0,0,-361,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+367,Heung-Min,Son,Spurs,0,-1,-48221,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+368,Harry,Winks,Spurs,1,0,7,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+369,Moussa,Sissoko,Spurs,0,0,-1190,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+370,Lucas,Rodrigues Moura da Silva,Spurs,7,0,4572,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+371,Fernando,Llorente,Spurs,0,0,-2492,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+372,Harry,Kane,Spurs,7,0,-95420,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+497,Georges-Kévin,Nkoudou,Spurs,0,0,-134,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+523,Luke,Amos,Spurs,0,0,-219,"MUN,4","WAT,3","LIV,4","BHA,3","HUD,2",16,3.2
+373,Heurelho,Gomes,Watford,0,0,-1405,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+374,Pontus,Dahlberg,Watford,0,0,-204,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+375,Younes,Kaboul,Watford,0,-1,-1019,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+376,Craig,Cathcart,Watford,2,0,1239,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+377,Sebastian,Prödl,Watford,0,-1,-1031,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+378,José,Holebas,Watford,2,0,29594,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+379,Miguel,Britos,Watford,0,-1,-426,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+380,Christian,Kabasele,Watford,2,0,-565,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+381,Daryl,Janmaat,Watford,1,0,-1445,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+382,Adrian,Mariappa,Watford,0,-1,-1219,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+383,Francisco,Femenía Far,Watford,1,-1,-2324,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+384,Marvin,Zeegelaar,Watford,0,-1,-580,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+385,Marc,Navarro,Watford,0,-1,-528,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+386,Adam,Masina,Watford,0,-1,-602,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+387,Nathaniel,Chalobah,Watford,0,0,-1001,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+388,Tom,Cleverley,Watford,0,0,-46,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+389,Etienne,Capoue,Watford,2,0,-857,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+390,Abdoulaye,Doucouré,Watford,6,0,-2508,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+391,Roberto,Pereyra,Watford,2,0,39349,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+392,Will,Hughes,Watford,8,0,24599,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+394,Gerard,Deulofeu,Watford,0,-1,-2790,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+395,Andre,Gray,Watford,6,0,3179,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+396,Troy,Deeney,Watford,12,0,87302,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+397,Stefano,Okaka,Watford,0,0,-159,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+398,Jerome,Sinclair,Watford,0,0,-858,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+445,Ben,Foster,Watford,2,0,-2847,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+446,Ken,Sema,Watford,1,-1,-493,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+517,Domingos,Quina,Watford,0,0,-221,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+524,Isaac,Success Ajayi,Watford,1,0,8898,"CRY,2","TOT,4","MUN,4","FUL,2","ARS,4",16,3.2
+399,Adrián,San Miguel del Castillo,West Ham,0,0,-1784,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+400,Lukasz,Fabianski,West Ham,2,0,-57420,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+401,Winston,Reid,West Ham,0,0,-109,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+402,Aaron,Cresswell,West Ham,0,-1,-17249,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+403,Angelo,Ogbonna,West Ham,0,0,-6124,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+404,Sam,Byram,West Ham,0,0,-637,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+405,Pablo,Zabaleta,West Ham,0,-1,-19441,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+406,Declan,Rice,West Ham,0,0,-1779,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+407,Reece,Oxford,West Ham,0,0,-692,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+408,Ryan,Fredericks,West Ham,0,-1,-5745,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+409,Issa,Diop,West Ham,0,-1,-6835,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+410,Arthur,Masuaku,West Ham,2,0,-3344,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+411,Mark,Noble,West Ham,1,0,-2786,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+413,Pedro,Obiang,West Ham,0,0,-5883,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+414,Manuel,Lanzini,West Ham,0,0,-315,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+415,Michail,Antonio,West Ham,0,0,-8853,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+416,Edimilson,Fernandes,West Ham,0,0,-2474,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+417,Marko,Arnautovic,West Ham,8,0,6313,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+418,Andy,Carroll,West Ham,0,0,-292,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+419,Javier,Hernández Balcázar,West Ham,5,0,-6127,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+420,Jordan,Hugill,West Ham,0,0,-263,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+447,Jack,Wilshere,West Ham,1,0,-31041,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+453,Andriy,Yarmolenko,West Ham,0,-1,-8034,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+464,Fabián,Balbuena,West Ham,1,0,-1935,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+465,Felipe Anderson,Pereira Gomes,West Ham,1,-1,-36731,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+489,Robert,Snodgrass,West Ham,2,0,-728,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+502,Lucas,Pérez,West Ham,1,0,-2074,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+518,Carlos,Sánchez,West Ham,1,0,-960,"ARS,4","WOL,2","EVE,3","CHE,4","MUN,4",17,3.4
+421,John,Ruddy,Wolves,0,0,-1729,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+422,Will,Norris,Wolves,0,0,-3176,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+423,Willy,Boly,Wolves,1,0,-11531,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+424,Barry,Douglas,Wolves,0,0,-461,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+425,Matt,Doherty,Wolves,-1,0,-13074,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+426,Romain,Saïss,Wolves,0,-1,-1772,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+427,Ryan,Bennett,Wolves,1,0,31343,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+428,Danny,Batth,Wolves,0,0,-5670,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+429,Roderick Jefferson,Gonçalves Miranda,Wolves,0,0,-442,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+430,Conor,Coady,Wolves,1,0,-2748,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+431,Rúben Gonçalo,Silva Nascimento Vinagre,Wolves,0,0,-808,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+432,Diogo,Jota,Wolves,1,-1,-96714,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+433,Rúben Diogo,da Silva Neves,Wolves,2,0,14650,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+434,Ivan,Cavaleiro,Wolves,0,-1,-1412,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+435,Hélder,Costa,Wolves,1,-1,-5694,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+436,Bright,Enobakhare,Wolves,0,0,-1144,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+437,Raúl,Jiménez,Wolves,2,0,-6931,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+438,Bonatini Lohner Maia,Bonatini,Wolves,1,0,-5859,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+448,Morgan,Gibbs-White,Wolves,0,0,-1695,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+449,Rafa,Mir,Wolves,0,0,-513,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+454,Rui Pedro,dos Santos Patrício,Wolves,1,0,-21858,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+475,João Filipe Iria,Santos Moutinho,Wolves,2,-1,-10592,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+483,Jonathan,Castro Otto,Wolves,1,0,-3571,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+500,Adama,Traoré,Wolves,1,0,-2544,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+519,Leander,Dendoncker,Wolves,0,0,-2110,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
+525,Kortney,Hause,Wolves,0,0,1773,"MCI,5","WHU,3","BUR,3","MUN,4","SOU,2",17,3.4
